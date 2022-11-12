@@ -1,0 +1,58 @@
+---
+title: "Homework_1"
+author: "Hilal Kayacan"
+date: "2022-11-12"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+    toc_depth: 3
+    number_sections: true
+    code_folding: show
+    theme: cerulean 
+---
+# Contents 
+
+## Molecular Biology
+
+1. Molecular biology is a very cool discipline because;
++ You can learn everything in *molecular level*.
++ You can observe **microworld** even nanoworld by using bioimaging techniques.
++ You can understand  different pathway.
+
+![](https://i.chzbgr.com/full/9133939200/h8662BF7A/cartoon-the-science-seasons-o-o-fall-winter-sketching-science-spring-summer)
+
+
+
+### History of Molecular Biology 
+
+You can use this link (https://en.wikipedia.org/wiki/History_of_molecular_biology) to learn more detail about history of molecular biology.
+
+
+DENEY         | SONUÇ
+--------------|-------
+Bileşen arama | var
+Ana bileşen   | yok
+
+
+
+## Heading
+
+
+
+```{r, eval = FALSE}
+2+2
+
+```
+
+
+
+
+### Heading 
+
+```{r presseure}
+
+plot(pressure)
+```
+
